@@ -1,5 +1,6 @@
 """
-@author : Sriram Veturi (UIN : 651427659)
+@author : Sriram Veturi 
+@title  : Text Preprocessing Template
 """
 
 import os
